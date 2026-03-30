@@ -1,0 +1,11 @@
+========== CARD ==========
+✅.card__title
+Majestic Fog
+Autumn Trees
+Winter Forest
+Hidden Lake
+Frozen River
+
+
+✅.card__description
+Beautiful scenery to enjoy.
